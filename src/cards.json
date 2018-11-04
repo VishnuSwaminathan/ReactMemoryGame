@@ -1,0 +1,62 @@
+[
+  {
+    "breed": "bulldog",
+    "image": "img/2S.jpg"
+  },
+  {
+    "breed": "beagle",
+    "image": "img/QD.jpg"
+  },
+  {
+    "breed": "husky",
+    "image": "img/3D.jpg"
+  },
+  {
+    "breed": "maltese",
+    "image": "img/QC.jpg"
+  },
+  {
+    "breed": "pomeranian",
+    "image": "img/4C.jpg"
+  },
+  {
+    "breed": "poodle",
+    "image": "img/KS.jpg"
+  },
+  {
+    "breed": "pyrenees",
+    "image": "img/5H.jpg"
+  },
+  {
+    "breed": "chihuahua",
+    "image": "img/KH.jpg"
+  },
+  {
+    "breed": "boxer",
+    "image": "img/6S.jpg"
+  },
+  {
+    "breed": "chow",
+    "image": "img/JD.jpg"
+  },
+  {
+    "breed": "corgi",
+    "image": "img/7C.jpg"
+  },
+  {
+    "breed": "mastiff",
+    "image": "img/AC.jpg"
+  },
+  {
+    "breed": "sheepdog",
+    "image": "img/8H.jpg"
+  },
+  {
+    "breed": "terrier",
+    "image": "img/10H.jpg"
+  },
+  {
+    "breed": "shihtzu",
+    "image": "img/9S.jpg"
+  }
+]
