@@ -10,7 +10,7 @@
 
 ### How It Works
 
-- Go to the app's home page at .
+- Go to the app's home page at https://syin1.github.io/ReactMemoryGame/.
 - The application will render different playing cards to the screen.
 - The user should then click on individual cards to gain points. The user's score will be incremented when clicking an image for the first time.
 - The user's score should be reset to 0 if they click the same image more than once.
