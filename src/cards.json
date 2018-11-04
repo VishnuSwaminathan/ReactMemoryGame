@@ -1,62 +1,62 @@
 [
   {
-    "breed": "bulldog",
+    "cardvalue": "bulldog",
     "image": "img/2S.jpg"
   },
   {
-    "breed": "beagle",
-    "image": "img/QD.jpg"
+    "cardvalue": "beagle",
+    "image": "img/QS.jpg"
   },
   {
-    "breed": "husky",
+    "cardvalue": "husky",
     "image": "img/3D.jpg"
   },
   {
-    "breed": "maltese",
+    "cardvalue": "maltese",
     "image": "img/QC.jpg"
   },
   {
-    "breed": "pomeranian",
+    "cardvalue": "pomeranian",
     "image": "img/4C.jpg"
   },
   {
-    "breed": "poodle",
+    "cardvalue": "poodle",
     "image": "img/KS.jpg"
   },
   {
-    "breed": "pyrenees",
+    "cardvalue": "pyrenees",
     "image": "img/5H.jpg"
   },
   {
-    "breed": "chihuahua",
+    "cardvalue": "chihuahua",
     "image": "img/KH.jpg"
   },
   {
-    "breed": "boxer",
+    "cardvalue": "boxer",
     "image": "img/6S.jpg"
   },
   {
-    "breed": "chow",
+    "cardvalue": "chow",
     "image": "img/JD.jpg"
   },
   {
-    "breed": "corgi",
+    "cardvalue": "corgi",
     "image": "img/7C.jpg"
   },
   {
-    "breed": "mastiff",
+    "cardvalue": "mastiff",
     "image": "img/AC.jpg"
   },
   {
-    "breed": "sheepdog",
+    "cardvalue": "sheepdog",
     "image": "img/8H.jpg"
   },
   {
-    "breed": "terrier",
+    "cardvalue": "terrier",
     "image": "img/10H.jpg"
   },
   {
-    "breed": "shihtzu",
+    "cardvalue": "shihtzu",
     "image": "img/9S.jpg"
   }
 ]

@@ -4,7 +4,7 @@ import cards from './cards.json';
 import Wrapper from './components/Wrapper';
 import Navpills from './components/Navpills';
 import Title from './components/Title';
-import DogCard from './components/DogCard';
+import Card from './components/Card';
 
 class App extends Component {
   state = {
@@ -24,9 +24,9 @@ class App extends Component {
     }
   };
 
-  selectDog = breed => {
+  selectDog = cardvalue => {
     const findDog = this.state.unselectedcards.find(
-      item => item.breed === breed
+      item => item.cardvalue === cardvalue
     );
 
     if (findDog === undefined) {
@@ -44,7 +44,7 @@ class App extends Component {
     } else {
       // success to select a new dog
       const newcards = this.state.unselectedcards.filter(
-        item => item.breed !== breed
+        item => item.cardvalue !== cardvalue
       );
 
       this.setState({
@@ -68,8 +68,8 @@ class App extends Component {
         />
         <Title />
         {this.state.cards.map(dog => (
-          <DogCard
-            breed={dog.breed}
+          <Card
+            cardvalue={dog.cardvalue}
             image={dog.image}
             selectDog={this.selectDog}
             curScore={this.state.curScore}

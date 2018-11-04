@@ -1,7 +1,7 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 160px;
+  height: 300px;
   overflow: hidden;
   margin: 1rem;
   position: relative;
@@ -16,17 +16,18 @@
   overflow: hidden;
   text-align: center;
 }
+
 .card > .img-container img {
-  margin-top: 10px;
+  margin-top: 30px;
   width: 100%;
-  height: 140px;
+  height: 245px;
 }
 
 .style_prevu_kit {
   display: inline-block;
   border: 0;
   width: 200px;
-  height: 220px;
+  height: 300px;
   position: relative;
   -webkit-transition: all 200ms ease-in;
   -webkit-transform: scale(1);
