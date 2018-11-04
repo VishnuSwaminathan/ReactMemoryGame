@@ -5,7 +5,7 @@ const Navpills = props => (
   <div>
     <ul className="nav nav-pills nav-justified">
       <li>
-        <a href="/">
+        <a href="https://syin1.github.io/ReactMemoryGame/">
           <i class="fab fa-react" /> Cards Clicky Game
         </a>
       </li>
